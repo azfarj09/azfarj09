@@ -1,7 +1,7 @@
 ## 
 
 <h1>
-    <span class="wave">👋</span> Hey there!
+    <span class="wave" animation = "wave">👋</span> Hey there!
 </h1>
 
 
