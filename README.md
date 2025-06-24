@@ -4,9 +4,6 @@
     <span class="wave">👋</span> Hey there!
 </h1>
 
-<style>
-    .wave { animation: wave 1.5s infinite; display: inline-block; transform-origin: 60% 60%; } @keyframes wave { 0% { transform: rotate(0deg); } 20% { transform: rotate(15deg); } 40% { transform: rotate(0deg); } 60% { transform: rotate(15deg); } 80% { transform: rotate(15deg); } 100% { transform: rotate(0deg); } }
-</style>
 
 
 My name is Azfar...
